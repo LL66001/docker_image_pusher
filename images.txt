@@ -6,3 +6,14 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
 haroldli/xiaoya-tvbox:latest
+heimdall
+emby
+flaresolverr
+prowlarr
+portainer
+sonarr
+jproxy
+jellyseerr
+qbittorrent
+radarr
+chinesesubfinder
